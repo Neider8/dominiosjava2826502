@@ -46,16 +46,7 @@ public class PruebaEjercicio2 {
             System.out.println("Medico:" + medicoRecorrer.cedula);
         }
 
-        SalaHospital salaHospital = new SalaHospital();
-        SalaHospital s1 = new SalaHospital();
-
-        SalaHospital salaHospital1 = new SalaHospital();
-        salaHospital1.numero = "215345L";
-
-
-
-
-        
+ 
 
     }
 
